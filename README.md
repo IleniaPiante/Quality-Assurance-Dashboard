@@ -11,6 +11,11 @@ Here, we focus on issues identified by **internal staff** during routine inspect
 ### 3. Non-Conformities by Area
 This section offers a breakdown of non-conformities segmented by operational areas, such as **production**, **storage**, **packaging**. By analyzing trends at an area level, this section helps pinpoint departments with higher instances of non-compliance, enabling targeted interventions and resource prioritization.
 
+### Security and Access Levels
+The dashboard includes a **security layer** to ensure data privacy and appropriate access:
+- **Department Managers** can view non-conformity data specific only to their respective departments.
+- **Quality Manager** has full access to view non-conformity data across all departments, supporting a comprehensive quality management overview.
+
 ### Key Features
 - **Detailed Visualizations:** Easily track non-conformities over time and by category.
 - **Trend Analysis:** Identify patterns and recurrent issues to drive continuous improvement.
