@@ -1,4 +1,4 @@
-# 2023-2024 Non-Conformities Dashboard for [Company Name]
+# 2023-2024 Non-Conformities Dashboard for Food Company
 
 This dashboard provides a comprehensive view of non-conformities identified within a **fictional food company** over the 2023-2024 period, focusing on three critical areas:
 
